@@ -35,11 +35,11 @@ import Watchers from './Flexbox/Watchers.vue';
   <CardTitleing/>
   <PricingS/>
   <Jjjoing/> -->
-  <!-- <Flexboxes/> -->
+  <Flexboxes/>
 <!-- <Ffkfnction/> -->
 
 <!-- <CheckedForm/> -->
-<Pointbox/>
+<!-- <Pointbox/> -->
 <!-- <SingleSelect/> -->
 <!-- <Watchers/> -->
 

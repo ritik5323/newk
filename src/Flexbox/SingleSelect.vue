@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { ref,  } from 'vue';
 
-const componen = ref('');
+const selected = ref('');
 </script>
 
 <template>
-<div> selected: {{ componen }}</div>
-<select v-modal="componen">
+<div> selected: {{ selected }}</div>
+<select v-modal="selected">
 <option>Please select one</option>
 <option>A</option>
 <option>b</option>
