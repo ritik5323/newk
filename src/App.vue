@@ -39,9 +39,9 @@ import Watchers from './Flexbox/Watchers.vue';
 <!-- <Ffkfnction/> -->
 
 <!-- <CheckedForm/> -->
-<!-- <Pointbox/> -->
+<Pointbox/>
 <!-- <SingleSelect/> -->
-<Watchers/>
+<!-- <Watchers/> -->
 
 </template>
 
