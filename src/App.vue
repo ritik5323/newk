@@ -23,7 +23,8 @@ import FlexBoxes from './Flexbox/FlexBoxes.vue';
 import Card from './components/card.vue'
 
 </script>
-
+<!-- Hello -->
+ <!-- ritik -->
 <template> 
   <!-- <MyProfile /> 
     <NavBar/>
