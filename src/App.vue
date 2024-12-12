@@ -13,12 +13,14 @@ import HHeroes from './HHeroes.vue';
 import FFeatures from './FFeatures.vue';
 import Jjjoing from './jkjog.vue';
 import Llogoes from './Llogoes.vue';
-import Flexboxes from './Flexbox/FlexBoxes.vue';
 import Ffkfnction from './ffkfnction.vue';
 import CheckedForm from './Flexbox/checkedForm.vue';
 import Pointbox from './Flexbox/pointbox.vue';
 import SingleSelect from './Flexbox/SingleSelect.vue';
 import Watchers from './Flexbox/Watchers.vue';
+import FlexBoxes from './Flexbox/FlexBoxes.vue';
+
+import Card from './components/card.vue'
 
 </script>
 
@@ -35,13 +37,13 @@ import Watchers from './Flexbox/Watchers.vue';
   <CardTitleing/>
   <PricingS/>
   <Jjjoing/> -->
-  <Flexboxes/>
+  <!-- <FlexBoxes/> -->
 <!-- <Ffkfnction/> -->
 
 <!-- <CheckedForm/> -->
 <!-- <Pointbox/> -->
 <!-- <SingleSelect/> -->
 <!-- <Watchers/> -->
-
+<card/>
 </template>
 

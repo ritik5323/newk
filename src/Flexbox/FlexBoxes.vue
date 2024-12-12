@@ -2,15 +2,11 @@
 export default {
   name: 'FlexBoxes',
 }
+
 </script>
 
 <template>
-  <!-- <div class="bg-blue-200 p-20 rounded-lg">
-    <div class="grid grid-cols-2 gap-2">
-    </div>
-  </div> -->
-
-
+ 
   <div class="grid grid-cols-1  border border-blue-300 p-6 rounded-lg shadow-lg ">
     <div class="grid grid-cols-2 h-[150px] gap-2">
       <div class="grid grid-cols-4  border border-red-300 p-6 rounded-lg shadow-lg  gap-4">
