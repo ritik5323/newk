@@ -1,8 +1,4 @@
-<script lang="ts">
-  export default {
-name: 'MyProfile',
-}
-</script>
+
 
 <template>
   <span class="inline-flex items-center rounded-md bg-gray-50 px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-gray-500/10">Badge</span>
@@ -15,3 +11,8 @@ name: 'MyProfile',
   <span class="inline-flex items-center rounded-md bg-pink-50 px-2 py-1 text-xs font-medium text-pink-700 ring-1 ring-inset ring-pink-700/10">Badge</span>
 </template>
 
+<script lang="ts">
+  export default {
+name: 'MyProfile',
+}
+</script>

@@ -1,12 +1,4 @@
-<script setup lang="ts">
-import { PaperClipIcon } from '@heroicons/vue/20/solid'
-</script>
 
-<script lang="ts">
-  export default {
-name: 'AlignedM',
-}
-</script>
 <template>
   <div>
     <div class="px-4 sm:px-0">
@@ -71,3 +63,12 @@ name: 'AlignedM',
   </div>
 </template>
 
+<script setup lang="ts">
+import { PaperClipIcon } from '@heroicons/vue/20/solid'
+</script>
+
+<script lang="ts">
+  export default {
+name: 'AlignedM',
+}
+</script>

@@ -1,8 +1,4 @@
-<script lang="ts">
-  export default {
-name: 'StackedList',
-}
-</script>
+
 
 <template>
   <ul role="list" class="divide-y divide-gray-100">

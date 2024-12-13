@@ -1,6 +1,33 @@
+<template> 
+  <!-- <MyProfile />  -->
+    <!-- <NavBar/> -->
+  <!-- <AlignedM /> -->
+  <!-- <StackedList/> -->
+  <!-- <GFooter/> -->
+  <!-- <PHeading/> -->
+  <!-- <HHeroes/>
+  <Llogoes/>
+  <FFeatures/>
+  <CardTitleing/>
+  <PricingS/>
+  <Jjjoing/> -->
+  <FlexBoxes/>
+<!-- <Ffkfnction/> -->
+
+<!-- <CheckedForm/> -->
+<!-- <Pointbox/> -->
+<!-- <SingleSelect/> -->
+<!-- <Watchers/> -->
+<!-- <card/> -->
+ <!-- <flexes/> -->
+ <!-- <Dashboard/> -->
+ 
+</template>
+
+
 <script setup lang="ts">
   // import { PaperClipIcon } from '@heroicons/vue/20/solid';
-  
+
 import MyProfile from '@/components/MyProfile.vue'; // Ensure this path is correct
 import AlignedM from '@/components/AlignedM.vue';
 import NavBar from './components/NavBar.vue';
@@ -19,32 +46,7 @@ import Pointbox from './Flexbox/pointbox.vue';
 import SingleSelect from './Flexbox/SingleSelect.vue';
 import Watchers from './Flexbox/Watchers.vue';
 import FlexBoxes from './Flexbox/FlexBoxes.vue';
-
+import flexes from './Flexbox/flexes.vue';
 import Card from './components/card.vue'
-
+import Dashboard from './components/Dashboard.vue';
 </script>
-<!-- Hello -->
- <!-- ritik -->
-<template> 
-  <!-- <MyProfile /> 
-    <NavBar/>
-  <AlignedM />
-  <StackedList/>
-  <GFooter/> -->
-  <!-- <PHeading/>
-  <HHeroes/>
-  <Llogoes/>
-  <FFeatures/>
-  <CardTitleing/>
-  <PricingS/>
-  <Jjjoing/> -->
-  <!-- <FlexBoxes/> -->
-<!-- <Ffkfnction/> -->
-
-<!-- <CheckedForm/> -->
-<!-- <Pointbox/> -->
-<!-- <SingleSelect/> -->
-<!-- <Watchers/> -->
-<card/>
-</template>
-
