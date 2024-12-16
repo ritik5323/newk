@@ -2,7 +2,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const picked = ref('One')
+// const picked = ref('One')
 </script>
 
 <template>

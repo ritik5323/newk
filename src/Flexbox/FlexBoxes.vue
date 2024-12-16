@@ -53,8 +53,9 @@ export default {
 
   </div> -->
 
-  <div class="grid grid-cols-1 border border-blue-300 p-6 rounded-lg shadow-lg">
-  <div class="grid grid-cols-1 md:grid-cols-2 h-auto gap-4">
+  <!-- <div class="grid grid-cols-1 border border-blue-300 p-6 rounded-lg shadow-lg"> -->
+    <div class="grid grid-cols-1 border border-blue-300 p-6  rounded-lg shadow-lg">
+  <div class="grid grid-cols-1 border md:grid-cols-2 h-auto gap-4">
     <!-- First Inner Grid -->
     <div class="grid grid-cols-2 sm:grid-cols-4 border border-red-300 p-4 rounded-lg shadow-lg gap-4">
       <div class="grid grid-cols-1 border border-gray-300 p-4 rounded-lg shadow-lg">
@@ -87,7 +88,7 @@ export default {
       </div>
     </div>
   </div>
+<!-- </div> -->
 </div>
-
 
 </template>
